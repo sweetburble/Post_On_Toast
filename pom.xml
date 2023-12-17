@@ -145,7 +145,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>JBlogWeb</finalName>
+		<finalName>PostOnToast</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
